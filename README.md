@@ -1,2 +1,2 @@
 # AirBInformed-Project
-An app which accurately predicts Airbnb rental prices
+Accurate Rental Price Prediction on Airbnb
